@@ -1,4 +1,4 @@
-# [Guideline for Conribution]
+# Guideline for Conribution
 
 **SCHOOLOUD**에 기여해주셔서 감사합니다.
 
@@ -7,7 +7,10 @@
 - [컨트리뷰션 가이드](#컨트리뷰션-가이드)
 - [PR 가이드](#pr-가이드)
 - [commit 가이드](#commit-가이드)
+- [브랜치 전략](#branch-전략)
+- [코드 리뷰 규칙](#코드-리뷰-규칙)
 - [컨벤션 가이드](#컨벤션-가이드)
+
 
 <br>
 
@@ -83,7 +86,7 @@ dev에서 분기한 branch의 이름은 **feature/이슈넘버 or xxx**, **fix/�
 리뷰어의 책임이 50%라는 마음으로 리뷰를 부탁드립니다.
 <br><br>
 
-# commit 가이드
+## commit 가이드
 
 Commit 양식은 [해당 사이트](https://www.conventionalcommits.org/en/v1.0.0/#summary)를 참고해주세요.
 
@@ -114,7 +117,7 @@ xxx 관리자의 수월한 프로젝트 관리를 위해....
 <br><br>
 
 
-# 컨벤션 가이드
+## 컨벤션 가이드
 
 [구글 코딩 컨벤션](https://github.com/google/styleguide)을 따라주세요
 <br>
